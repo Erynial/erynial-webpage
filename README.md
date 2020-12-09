@@ -1,3 +1,3 @@
-# personal-website-template
+# Erynial webpage
 
 Personal webpage
