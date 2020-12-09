@@ -134,7 +134,7 @@ section.success {
   margin: 0 auto;
 }
 #portfolio .portfolio-item .portfolio-link .caption {
-  background: rgba(24, 188, 156, 0.9);
+  background: rgba(57, 59, 59, 0.9);
   position: absolute;
   width: 100%;
   height: 100%;
@@ -225,15 +225,16 @@ footer h3 {
   margin-bottom: 30px;
 }
 footer .footer-above {
-  padding-top: 50px;
+  padding-top: 0px;
   background-color: rgb(59, 59, 59)
 }
 footer .footer-col {
-  margin-bottom: 50px;
+  margin-bottom: 0px;
 }
 footer .footer-below {
-  padding: 25px 0;
-  background-color: rgb(31, 30, 30);
+  padding: 5px 0;
+  color: black;
+  background-color: rgb(255, 255, 255);
 }
 .btn-outline {
   color: white;
